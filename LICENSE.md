@@ -1,4 +1,4 @@
-# 
+# Premium PowerToys scripts for Mac OS | Best PowerToys scripts for PC Windows. Featuring file indexing and version history — optimized for maximum performance on every platform.
 
 
 
